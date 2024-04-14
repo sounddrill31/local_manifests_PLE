@@ -1,12 +1,13 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Remotes -->
     <remote name="nokia-msm8937-dev" fetch="https://github.com/nokia-msm8937-dev" clone-depth="1" />
     <remote name="nokia-msm8937" fetch="https://github.com/nokia-msm8937" clone-depth="1" />
     <!-- Repos -->
-    <project path="device/nokia/PLE" name="android_device_nokia_PLE" remote="nokia-msm8937-dev" revision="lineage-18.1" />
-    <project path="kernel/nokia/PLE" name="android_kernel_nokia_PLE" remote="nokia-msm8937" revision="lineage-18.1" />
-    <project path="device/nokia/msm8937-common" name="android_device_nokia_msm8937-common" remote="nokia-msm8937-dev" revision="lineage-18.1" />
-    <project path="vendor/nokia/PLE" name="android_vendor_nokia_PLE" remote="nokia-msm8937-dev" revision="lineage-18.1" />
-    <project path="vendor/nokia/msm8937-common" name="android_vendor_nokia_msm8937-common" remote="nokia-msm8937-dev" revision="lineage-18.1" />
+    <project path="device/nokia/PLE" name="android_device_nokia_PLE" remote="nokia-msm8937-dev" revision="lineage-18.1" />
+    <project path="kernel/nokia/PLE" name="android_kernel_nokia_PLE" remote="nokia-msm8937" revision="lineage-18.1" />
+    <project path="device/nokia/msm8937-common" name="android_device_nokia_msm8937-common" remote="nokia-msm8937-dev" revision="lineage-18.1" />
+    <project path="vendor/nokia/PLE" name="android_vendor_nokia_PLE" remote="nokia-msm8937-dev" revision="lineage-18.1" />
+    <project path="vendor/nokia/msm8937-common" name="android_vendor_nokia_msm8937-common" remote="nokia-msm8937-dev" revision="lineage-18.1" />
 </manifest>
